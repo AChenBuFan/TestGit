@@ -13,4 +13,5 @@ public class TestController {
     private static final String TEST_GIT_4 = "wordGit1";
     private static final String TEST_GIT_5 = "wordGit1";
     private static final String TEST_GIT_6 = "wordGit1";
+    private static final String TEST_GIT_8 = "wordGit1";
 }
